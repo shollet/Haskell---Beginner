@@ -1,1 +1,3 @@
-# Haskell---Beginner
+# Haskell-Beginner
+
+Haskell Tutorial on Udemy, Certificated
